@@ -1,0 +1,17 @@
+tests/browser-profile*/
+tests/browser.pid
+tests/refine.ts
+screenshots/failure.png
+*.log
+tests/font-tools/
+tests/Iansui-Regular.ttf
+# Ignore internal preparation files kept locally after repository cleanup
+/ASSET_INVENTORY.md
+/CHANGELOG.md
+/REVISION_V2_REPORT.md
+/REVISION_V3_REPORT.md
+/TEST_REPORT.md
+/submission_notes.md
+/asset/case001/
+/asset/case002/
+/asset/case003/
