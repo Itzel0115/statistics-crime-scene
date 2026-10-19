@@ -1,0 +1,11 @@
+{
+  "source": "https://github.com/ButTaiwan/iansui",
+  "download": "https://raw.githubusercontent.com/ButTaiwan/iansui/main/fonts/ttf/Iansui-Regular.ttf",
+  "license": "SIL Open Font License 1.1; see OFL.txt",
+  "sourceSHA256": "7f1aa62e9dcbf40d0ce41a5d3f1e5ea602e66c295778ac6fefb6b84d8ed08bd5",
+  "subsetSHA256": "29adf71096a20ce0bee15f3de6bd09c57ccefa55c641a4c25e7cd258152ebcdd",
+  "bytes": 271396,
+  "characters": 979,
+  "family": "Crime Scene Notes",
+  "modification": "Subset for game text and rename family; original outlines retained."
+}
